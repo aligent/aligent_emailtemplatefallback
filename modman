@@ -1,0 +1,3 @@
+app/etc/modules/Aligent_EmailTemplateFallback.xml app/etc/modules/Aligent_EmailTemplateFallback.xml
+app/code/community/Aligent/EmailTemplateFallback app/code/community/Aligent/EmailTemplateFallback
+app/design/adminhtml/default/default/template/system/email/template/edit_fallback.phtml app/design/adminhtml/default/default/template/system/email/template/edit_fallback.phtml
