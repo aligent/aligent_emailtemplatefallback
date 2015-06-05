@@ -1,0 +1,18 @@
+{
+    "name": "aligent/aligent_emailtemplatefallback",
+    "license": "GPLv3",
+    "type": "magento-module",
+    "description": "Load default email template from 'design/frontend/[package]/[theme]/locale/[locale_code]/template/email' based on design fallback",
+    "homepage": "http://www.aligent.com.au",
+    "require": {
+        "fbrnc/aoe_designfallback": "*",
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"William Tran",
+            "email":"william@aligent.com.au"
+        }
+    ]
+}
+
